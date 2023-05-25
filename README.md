@@ -31,42 +31,55 @@
 
 
 Y-AXIS BASE :
+
 The base of the printer that supports the rest of the components.
 
 Z-AXIS FRAME :
+
 This is the frame that holds the print head and moves it up and down along the vertical axis.
 
 SMOOTH RODS :
+
 The smooth rods that provide smooth and accurate movement of the Z-axis frame.
 
 MOTORS :
+
 provide the power to move the Z-axis frame and the print head.
 
 EXTRUDER SUPPORTER :
+
 The support structure that holds the extruder assembly.
 
 THREADED ROD :
+
 Threaded rod that provides the power to move the Z-axis frame up and down.
 
 Y-AXIS FRAME :
+
 The frame that moves the print head in the horizontal plane.
 
 MOTOR WITH GEAR :
+
 provides the power to move the Y-axis frame.
 
 MOTOR-WITH-PULLEY :
+
 provides the power to move the Z-axis frame.
 
 GEARS :
+
 Transfer power from the stepper motors to the threaded rod and the smooth rods.
 
 PLATE :
+
 plate where the printed object is created.
 
 EXTRUDER :
+
 melts and extrudes the filament to create the printed object.
 
 FILAMENT :
+
 material that is used to create the printed object.
 
 
@@ -74,4 +87,4 @@ material that is used to create the printed object.
 ### Register Number:212222230169
 
 ## Result: 
-### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
